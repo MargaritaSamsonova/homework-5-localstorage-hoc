@@ -1,4 +1,4 @@
-describe('localstorage-hoc', () => {
+ describe('localstorage-hoc', () => {
   beforeEach(() => {
     cy.visit('/')
   })
